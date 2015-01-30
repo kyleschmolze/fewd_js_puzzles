@@ -1,1 +1,1 @@
-# fewd_js_puzzles
+# fewd_calculator

@@ -1,0 +1,40 @@
+body {
+  background: #eee;
+  color: #333;
+  font-size: 18px;
+  line-height: 1.4em;
+}
+
+.container {
+  max-width: 800px;
+  margin: 10px auto;
+  padding-bottom: 200px;
+}
+
+.green {
+  background-color: rgb(150, 255, 150);
+  padding: 0 10px;
+}
+
+.sneakysneaky {
+  display: none;
+}
+
+small {
+  font-size: 70%;
+  color: #666;
+}
+
+.btn {
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid #777;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.congrats {
+  padding-top: 50px;
+  font-size: 35px;
+  text-align: center;
+}
